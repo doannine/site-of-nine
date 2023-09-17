@@ -1,0 +1,24 @@
+.nine{
+    font-size: 50px;
+   
+    text-align: center;
+
+}
+
+.tenchinh{
+    text-align: center;
+    font-size: 75px;
+   
+}
+.fb{
+    text-align: center;
+    
+    font-size: 50px;
+}
+.tong{
+    background-image: url(hinh5.jpg);
+    max-width: 100%;
+   height: auto;
+   display: block;
+    
+}
